@@ -1,0 +1,23 @@
+Sales Analysis Project Summary
+
+This project analyzes sales data using time series and category-based charts.
+
+1. Line Chart (Sales Over Time):
+   Used to identify sales trends across different dates. It helps understand
+   growth or decline patterns over time.
+
+2. Monthly and Quarterly Aggregation:
+   Monthly and quarterly bar charts summarize sales performance for better
+   period-wise comparison and decision-making.
+
+3. Category Comparison:
+   Bar chart highlights differences in total sales among categories such as
+   Electronics, Clothing, and Grocery.
+
+4. Category Share (Pie Chart):
+   Pie chart shows the percentage contribution of each category to total sales,
+   making it easy to identify the dominant category.
+
+Conclusion:
+Electronics contributed the highest share of sales, followed by Clothing and
+Grocery. Sales showed a gradual increasing trend over time.
